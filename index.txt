@@ -1,8 +1,13 @@
 hi my name is kumar 
 I have added uma as a collabrator 
 uma are you there ?
+Yes, I am here.
+kkfjlkfjlf
+Introduction to git
+Four stages of git
+Working directory
+staging
+local repo
+remote repo
 
-
-uma are you there 
-
-could you please response?
+To clone- git clone url
